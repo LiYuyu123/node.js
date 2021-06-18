@@ -27,7 +27,7 @@ var server = http.createServer(function(request, response){
     response.write(`
              <!DOCTYPE html>
              <head>
-              <link rel="stylesheet" href="/x"
+              <link rel="stylesheet" href="/x">
              </head>
              <h1>杰哥最帅</h1>
     `)
